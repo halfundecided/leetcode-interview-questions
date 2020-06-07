@@ -6,13 +6,9 @@
 
 # @lc code=start
 
-"""
-- BFS, Recursion 
-Answer from Kevin Naughton Youtube
-"""
-
 
 class Solution:
+    # Kevin's Solution: https://www.youtube.com/watch?v=o8S2bO3pmO4&list=PLi9RQVmJD2fYXgBAUfaN5MXgYPUTbzqeb&index=1
     def numIslands(self, grid: List[List[str]]) -> int:
         if grid == None or len(grid) == 0:
             return 0
