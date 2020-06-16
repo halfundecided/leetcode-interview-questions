@@ -25,4 +25,6 @@ class Solution:
                 word2[i] = 1
 
         return word1 == word2
+
+
 # @lc code=end
