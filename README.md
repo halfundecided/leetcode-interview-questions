@@ -1,5 +1,6 @@
 # Question Descriptions
 
+- [1. Two Sum](https://leetcode.com/problems/two-sum/)
 - [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 - [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [136. Single Number](https://leetcode.com/problems/single-number/)
@@ -11,3 +12,4 @@
 - [344. Reverse String](https://leetcode.com/problems/reverse-string/)
 - [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
 - [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
+- [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
