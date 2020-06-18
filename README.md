@@ -10,6 +10,7 @@
 - [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [231. Power of Two](https://leetcode.com/problems/power-of-two/)
 - [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+- [278. First Bad Version](https://leetcode.com/problems/first-bad-version/)
 - [283. Move Zeros](https://leetcode.com/problems/move-zeroes/)
 - [342. Power of Four](https://leetcode.com/problems/power-of-four/)
 - [344. Reverse String](https://leetcode.com/problems/reverse-string/)
