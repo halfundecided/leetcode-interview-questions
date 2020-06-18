@@ -28,5 +28,4 @@ class Solution:
                 return 0
             return output
 
-
 # @lc code=end

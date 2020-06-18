@@ -1,7 +1,9 @@
 # Question Descriptions
 
 - [1. Two Sum](https://leetcode.com/problems/two-sum/)
+- [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)
 - [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+- [66. Plus One](https://leetcode.com/problems/plus-one/)
 - [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [136. Single Number](https://leetcode.com/problems/single-number/)
 - [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
