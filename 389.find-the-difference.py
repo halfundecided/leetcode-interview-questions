@@ -44,7 +44,6 @@ class Solution:
                 dicS[i] += 1
             else:
                 dicS[i] = 1
-        print(dicS)
 
         for i in t:
             if (i in dicS and dicS[i] == 0) or (i not in dicS):
