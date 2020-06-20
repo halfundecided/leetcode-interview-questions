@@ -16,6 +16,7 @@
 - [283. Move Zeros](https://leetcode.com/problems/move-zeroes/)
 - [342. Power of Four](https://leetcode.com/problems/power-of-four/)
 - [344. Reverse String](https://leetcode.com/problems/reverse-string/)
+- [349. Intersection of Two Array](https://leetcode.com/problems/intersection-of-two-arrays/)
 - [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
 - [389. Find the Difference](https://leetcode.com/problems/find-the-difference/)
 - [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)

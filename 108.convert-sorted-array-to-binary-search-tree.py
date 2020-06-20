@@ -14,6 +14,7 @@
 
 
 class Solution:
+    # Kevin's Solution: https://www.youtube.com/watch?v=PZYTs9y4f4o&list=PLi9RQVmJD2fYXgBAUfaN5MXgYPUTbzqeb&index=22
     def sortedArrayToBST(self, nums: List[int]) -> TreeNode:
         if nums == None or len(nums) == 0:
             return None
