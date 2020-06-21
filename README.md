@@ -12,6 +12,7 @@
 - [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
 - [231. Power of Two](https://leetcode.com/problems/power-of-two/)
 - [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+- [268. Missing Number](https://leetcode.com/problems/missing-number/)
 - [278. First Bad Version](https://leetcode.com/problems/first-bad-version/)
 - [283. Move Zeros](https://leetcode.com/problems/move-zeroes/)
 - [342. Power of Four](https://leetcode.com/problems/power-of-four/)
