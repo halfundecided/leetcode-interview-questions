@@ -7,6 +7,7 @@
 - [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
 - [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [136. Single Number](https://leetcode.com/problems/single-number/)
+- [169. Majority Element](https://leetcode.com/problems/majority-element/)
 - [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
 - [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
