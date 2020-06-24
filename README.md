@@ -3,6 +3,7 @@
 - [1. Two Sum](https://leetcode.com/problems/two-sum/)
 - [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)
 - [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+- [27. Remove Element](https://leetcode.com/problems/remove-element/)
 - [66. Plus One](https://leetcode.com/problems/plus-one/)
 - [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
 - [112. Path Sum](https://leetcode.com/problems/path-sum/)
