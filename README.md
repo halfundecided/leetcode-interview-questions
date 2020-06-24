@@ -5,6 +5,7 @@
 - [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 - [66. Plus One](https://leetcode.com/problems/plus-one/)
 - [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
+- [112. Path Sum](https://leetcode.com/problems/path-sum/)
 - [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [136. Single Number](https://leetcode.com/problems/single-number/)
 - [137. Single Number II](https://leetcode.com/problems/single-number-ii/)
