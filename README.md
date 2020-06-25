@@ -16,6 +16,7 @@
 - [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
 - [231. Power of Two](https://leetcode.com/problems/power-of-two/)
+- [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 - [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - [268. Missing Number](https://leetcode.com/problems/missing-number/)
 - [278. First Bad Version](https://leetcode.com/problems/first-bad-version/)
