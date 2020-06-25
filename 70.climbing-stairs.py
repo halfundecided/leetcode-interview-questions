@@ -8,7 +8,7 @@
 
 
 class Solution:
-    # My 1st Solution
+    # My 1st Solution: David's help
     def climbStairs(self, n: int) -> int:
         if n <= 2:
             return n
