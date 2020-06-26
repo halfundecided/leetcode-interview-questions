@@ -18,6 +18,7 @@
 - [231. Power of Two](https://leetcode.com/problems/power-of-two/)
 - [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 - [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+- [263. Ugly Number](https://leetcode.com/problems/ugly-number/)
 - [268. Missing Number](https://leetcode.com/problems/missing-number/)
 - [278. First Bad Version](https://leetcode.com/problems/first-bad-version/)
 - [283. Move Zeros](https://leetcode.com/problems/move-zeroes/)
