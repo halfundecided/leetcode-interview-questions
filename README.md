@@ -33,4 +33,5 @@
 - [476. Number Complement](https://leetcode.com/problems/number-complement/)
 - [657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)
 - [693. Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)
+- [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
 - [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
