@@ -32,5 +32,5 @@
 - [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/)
 - [476. Number Complement](https://leetcode.com/problems/number-complement/)
 - [657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)
-- []
+- [693. Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)
 - [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
