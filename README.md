@@ -37,3 +37,4 @@
 - [693. Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)
 - [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
 - [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
+- [896. Monotonic Array](https://leetcode.com/problems/monotonic-array/)
